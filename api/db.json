@@ -75,14 +75,14 @@
             "city": "Awesometown",
             "state": "Awesome",
             "address": "Awesome Street"
-        }
+        },
         {
             "id": 2,
             "name": "Flower Producers of South East",
             "city": "Southsville",
             "state": "South",
             "address": "South Blvd"
-        }
+        },
         {
             "id": 3,
             "name": "Worldly flowers",
