@@ -25,5 +25,71 @@
             "commonName": "Giant Water Lily",
             "color": "Whites"
         }
+    ],
+    "retailers": [
+        {
+            "id": 1,
+            "name": "NAMEONE",
+            "city": "SOME",
+            "state": "STATE STATE",
+            "address": "PRIVATE INFO",
+            "distributorId": 2
+        },
+        {
+            "id": 2,
+            "name": "TWONAME",
+            "city": "SOMECITY",
+            "state": "TATE TATE",
+            "address": "PRIVATE INFO",
+            "distributorId": 3
+        },
+        {
+            "id": 3,
+            "name": "NAMETHREE",
+            "city": "SOMECITYSOME",
+            "state": "SATE SATE",
+            "address": "PRIVATE INFO",
+            "distributorId": 1
+        },
+        {
+            "id": 4,
+            "name": "FOURNAME",
+            "city": "SOMEWHERE",
+            "state": "STAT STAT",
+            "address": "PRIVATE INFO",
+            "distributorId": 2
+        },
+        {
+            "id": 5,
+            "name": "NAMEFIVE",
+            "city": "SOMECITYSOMEWHERE",
+            "state": "STTE STTE",
+            "address": "PRIVATE INFO",
+            "distributorId": 1
+        }
+    ],
+    "distributors": [
+        {
+            "id": 1,
+            "name": "Awesome Nursury",
+            "city": "Awesometown",
+            "state": "Awesome",
+            "address": "Awesome Street"
+        }
+        {
+            "id": 2,
+            "name": "Flower Producers of South East",
+            "city": "Southsville",
+            "state": "South",
+            "address": "South Blvd"
+        }
+        {
+            "id": 3,
+            "name": "Worldly flowers",
+            "city": "Worldsworld",
+            "state": "World",
+            "address": "World drive"
+        }
     ]
+    
 }
