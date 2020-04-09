@@ -1,0 +1,29 @@
+{
+    "flowers": [
+        {
+            "id": 1,
+            "commonName": "Chrysanthemum",
+            "color": "white, yellow, gold, pink, orange, bronze, deep red, maroon, violet, purple and more"
+        },
+        {
+            "id": 2,
+            "commonName": "Sunzilla Sunflower",
+            "color": "Yellow"
+        },
+        {
+            "id": 3,
+            "commonName": "Titan Arum a.k.a. Corpse Lily",
+            "color": ""
+        },
+        {
+            "id": 4,
+            "commonName": "Purple Passion",
+            "color": "Purple"
+        },
+        {
+            "id": 5,
+            "commonName": "Giant Water Lily",
+            "color": "Whites"
+        }
+    ]
+}
