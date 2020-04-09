@@ -1,7 +1,12 @@
-import { getFlowers } from "./FlowerDataProvider.js";
-import { FlowerList } from "./FlowerList.js";
+import { getFlowers } from "./flower/FlowerDataProvider.js";
+import { FlowerList } from "./flower/FlowerList.js";
+import { getRetailers } from "./retailers/RetailersDataProvider.js";
+import { RetailerList } from "./retailers/RetailerList.js";
 
 
 
 getFlowers()
-        .then(FlowerList)
+        .then(FlowerList);
+
+getRetailers()
+        .then(RetailerList)

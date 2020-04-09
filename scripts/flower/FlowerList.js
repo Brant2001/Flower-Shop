@@ -1,6 +1,6 @@
 /*
     This module is resposible for receiving other modules and 
-    manipulating them to render our employee list to the DOM
+    manipulating them to render our flower list to the DOM
 */
 
 import { getFlowers, useFlowers } from "./FlowerDataProvider.js"
